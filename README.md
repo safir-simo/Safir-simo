@@ -1,52 +1,60 @@
 ## Hi there 👋
 
-# 👨‍💻 Mohamed Abozziane - SOC Analyst
+# 👨‍💻 Mohamed Abozziane
 
-## 🛡️ About Me
+### 🛡️ SOC Analyst (In Training) | Security+ | CCNA
 
-Cybersecurity student working towards a SOC Analyst (Tier 1) role with hands-on experience in threat detections, logs analysis, and incident investigations by doing practical lab tasks.
+---
 
-🎓 HNC Cybersecurity - Edinburgh College
-📜 CompTIA Security+ | CCNA
+## 🚀 About Me
+
+I am a cybersecurity student focused on becoming a **SOC Analyst (Tier 1)**.
+I build hands-on labs to simulate real-world cyber attacks and practice detection, analysis, and incident response.
+
+🎓 HNC Cybersecurity – Edinburgh College
+📜 CompTIA Security+ | Cisco CCNA
+
+---
+
+## 🔍 What I Do
+
+* Investigate security alerts
+* Analyze logs and suspicious activity
+* Practice incident response scenarios
+* Detect phishing and cyber threats
 
 ---
 
 ## ⚙️ Skills
 
-* Logs Analysis & Events Investigations
-* SIEM basics (Splunk)
-* Network Analysis (Wireshark)
-* Incident Response
-* Phishing & Threats Detection
+* Log Analysis & Event Investigation
+* SIEM Basics (Splunk)
+* Network Traffic Analysis (Wireshark)
+* Incident Response (NIST Framework)
+* Threat Detection & Phishing Analysis
 
 ---
 
 ## 🧰 Tools
 
-* Splunk
-* Wireshark
-* Kali Linux
-* TryHackMe
-* Windows Server
+Splunk | Wireshark | Kali Linux | TryHackMe | Windows Server
 
 ---
 
-## 📂 Projects
+## 📂 Featured Project
 
-🔹 SOC Analyst Lab
-https://github.com/safir-simo/soc-analyst-lab-tryhackme
+### 🔹 SOC Analyst Lab
 
-🔹 Incident Response Labs *(Coming Soon)*
-
-🔹 SIEM Logs Analysis *(Coming Soon)*
+Hands-on SOC training using TryHackMe labs
+➡️ https://github.com/safir-simo/soc-analyst-lab-tryhackme
 
 ---
 
-## 📈 Goals
+## 📈 Current Goals
 
-* Create a SOC Analyst portfolio
-* Get experience in the field of cybersecurity
-* Get an entry-level SOC Analyst job position
+* Build a strong SOC Analyst portfolio
+* Gain hands-on experience with SIEM tools
+* Start a cybersecurity career in SOC
 
 ---
 
@@ -54,3 +62,4 @@ https://github.com/safir-simo/soc-analyst-lab-tryhackme
 
 * LinkedIn: https://www.linkedin.com/in/mohamed-abozziane-b097042a4/
 * Email: mohamedabozziane@protonmail.com
+
