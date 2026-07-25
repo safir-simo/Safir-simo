@@ -48,6 +48,14 @@ Splunk | Wireshark | Kali Linux | TryHackMe | Windows Server
 Hands-on SOC training using TryHackMe labs
 ➡️ https://github.com/safir-simo/soc-analyst-lab-tryhackme
 
+## 🏆 Certifications
+
+### 📜 Cisco CCNA
+![CCNA](certificates/CCNA.png)
+
+### 🔐 CompTIA Security+
+![Security+](certificates/Securityplus.png)
+
 ---
 
 ## 📈 Current Goals
