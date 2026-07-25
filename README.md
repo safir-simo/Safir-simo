@@ -37,15 +37,22 @@ I build hands-on labs to simulate real-world cyber attacks and practice detectio
 
 ## 🧰 Tools
 
-Splunk | Wireshark | Kali Linux | TryHackMe | Windows Server
+- SIEM: Splunk, ELK
+- Networking: Wireshark, TCP/IP
+- Security: Nmap, Metasploit
+- OS: Linux, Windows
 
 ---
 
 ## 📂 Featured Project
 
-### 🔹 SOC Analyst Lab
+### 🔹 SOC Analyst Lab (TryHackMe)
 
 Hands-on SOC training using TryHackMe labs
+- Investigated simulated security incidents
+- Analyzed logs and identified attack patterns
+- Documented findings and response actions
+  
 ➡️ https://github.com/safir-simo/soc-analyst-lab-tryhackme
 
 ## 🏆 Certifications
