@@ -2,7 +2,7 @@
 
 # 👨‍💻 Mohamed Abozziane
 
-### 🛡️ SOC Analyst (In Training) | Security+ | CCNA
+### 🕵🏼‍♂️ SOC Analyst (In Training) | Security+ | CCNA
 
 ---
 
