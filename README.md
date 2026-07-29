@@ -63,6 +63,11 @@ Hands-on SOC training using TryHackMe labs
 - Understand Blue Team security operations
 - Explore how security incidents are detected and managed
 
+➡️ https://github.com/safir-simo/SOC-Role-in-Blue-Team/blob/main/README.md
+
+
+---
+
 ## 🏆 Certifications
 
 ### 📜 Cisco CCNA
