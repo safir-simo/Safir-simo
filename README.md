@@ -55,8 +55,7 @@ Hands-on SOC training using TryHackMe labs
 
 ➡️ https://github.com/safir-simo/soc-analyst-lab-tryhackme
 
-### 🔹 SOC-Role-in-Blue-Team
- (TryHackMe)
+### 🔹 SOC-Role-in-Blue-Team (TryHackMe)
 
 - Understand the purpose of a Security Operations Centre (SOC)
 - Learn the responsibilities of SOC analysts
