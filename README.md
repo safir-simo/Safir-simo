@@ -74,7 +74,7 @@ Hands-on SOC training using TryHackMe labs
 
 ➡️ https://github.com/safir-simo/SOC-Analyst-Lab-SIEM-Basics/blob/main/README.md
 
-### 🔹Cyber Kill Chain – SOC Analysis Lab
+### 🔹Cyber Kill Chain – SOC Analysis Lab (TryHackMe)
  
 - 7 Stages of the Cyber Kill Chain
 - Applying This Model to Real SOC Incidents
