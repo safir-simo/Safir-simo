@@ -11,6 +11,13 @@
 I am a cybersecurity student focused on becoming a **SOC Analyst (Tier 1)**.
 I build hands-on labs to simulate real-world cyber attacks and practice detection, analysis, and incident response.
 
+I have been acquiring hands-on experience through TryHackMe labs and practical projects, developing skills in :
+- Threat detection
+- Incident investigation
+- Log analysis
+- Cyber Attack lifecycle
+
+
 🎓 HNC Cybersecurity – Edinburgh College
 📜 CompTIA Security+ | Cisco CCNA
 
@@ -25,22 +32,30 @@ I build hands-on labs to simulate real-world cyber attacks and practice detectio
 
 ---
 
-## ⚙️ Skills
-
-* Log Analysis & Event Investigation
-* SIEM Basics (Splunk)
-* Network Traffic Analysis (Wireshark)
-* Incident Response (NIST Framework)
-* Threat Detection & Phishing Analysis
+## 🎯 Career Objective
+To obtain a position as a **Junior SOC Analyst** in which I will be able to:
+- Monitor SIEM alerts
+- Conduct security investigations
+- Manage threats
 
 ---
 
-## 🧰 Tools
+## 💻 Skills & Knowledge
+- SIEM Basics
+- Log Analysis
+- Cyber Kill Chain
+- Threat Intelligence (basics)
+- Incident Response (basics)
+- Networking (CCNA level)
 
-- SIEM: Splunk, ELK
-- Networking: Wireshark, TCP/IP
-- Security: Nmap, Metasploit
-- OS: Linux, Windows
+---
+
+## 🧰 Tools (Learning)
+
+- SIEMs (via TryHackMe labs)
+- Wireshark (basics)
+- Linux (basics)
+- Windows Event Logs
 
 ---
 
@@ -102,6 +117,14 @@ Hands-on SOC training using TryHackMe labs
 * Build a strong SOC Analyst portfolio
 * Gain hands-on experience with SIEM tools
 * Start a cybersecurity career in SOC
+
+---
+
+## 🧠 Currently Learning
+- Log Analysis
+- SIEM tools (Splunk / ELK)
+- Threat Hunting
+- Phishing analysis
 
 ---
 
