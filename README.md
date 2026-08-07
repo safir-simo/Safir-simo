@@ -97,6 +97,15 @@ Hands-on SOC training using TryHackMe labs
 
 ➡️ https://github.com/safir-simo/Cyber-Kill-Chain-SOC-Analysis-Lab/blob/main/README.md
 
+### 🔹Ethical Hacking Lab – VAPT Assessment (HNC lab)
+
+- Performed end to end VAPT assessment in controlled lab
+- Identified and exploited real word vulnerabilities
+- Documented findings with actionable security recommendations
+
+➡️     
+
+
 
 
 
