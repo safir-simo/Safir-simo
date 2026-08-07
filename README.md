@@ -103,7 +103,7 @@ Hands-on SOC training using TryHackMe labs
 - Identified and exploited real word vulnerabilities
 - Documented findings with actionable security recommendations
 
-➡️     
+➡️ https://github.com/safir-simo/Ethical-Hacking-Lab-VAPT-Assessment/blob/main/README.md     
 
 
 
